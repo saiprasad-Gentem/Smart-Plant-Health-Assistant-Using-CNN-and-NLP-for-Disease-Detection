@@ -26,3 +26,7 @@ Neural Networks : Subset of ML ,ability to learn complex representations.
 Tensor Flow : open-source framework developed by google for building and deploying ML models.
 
 Natural Language Process : Interaction between computers and humans.
+
+---------------------------------------------------------------------------
+
+Project work Flow
