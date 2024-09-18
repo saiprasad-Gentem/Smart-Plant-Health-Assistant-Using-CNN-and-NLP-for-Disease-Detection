@@ -31,3 +31,11 @@ Natural Language Process : Interaction between computers and humans.
 
 Project work Flow
 -----------------
+1. collecting collected images of various plant diseases and healthy plants.
+2. Data Analysis and preprocessing.
+3. Train Test Split data.
+4. Model Selection(CNN).
+5. Training the Model.
+6. Predicting enabling real-time plant disease detection and information delivery.
+
+
